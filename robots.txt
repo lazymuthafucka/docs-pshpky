@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-k7i1wm.barodaplus.com/sitemap.xml
